@@ -2,6 +2,8 @@
 
 This project presents an interactive Power BI dashboard built to analyze Uber ride bookings in the NCR region. The dataset provides detailed information about ride bookings, and the dashboard offers visual insights into booking trends, customer behavior, and demand patterns.
 
+![image_alt](https://github.com/khushbu0130/Uber-Ride-Bookings-Dashboard/blob/6f0b7a06e0d883385b4eba7a92c0003842b35907/Dasboard.gif)
+
 The goal of this project is to demonstrate data visualization and business intelligence skills using Power BI, helping uncover insights that can guide decision-making.
 
 
