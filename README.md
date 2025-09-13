@@ -28,7 +28,9 @@ Demand spikes and low-demand periods
 
 ## 📂 Project Structure
 ├── Dasboard.gif          # Dashboard preview (animated GIF)
+
 ├── Uber.pbix             # Power BI report file
+
 ├── ncr_ride_bookings.csv # Dataset containing Uber ride booking records
 
 
